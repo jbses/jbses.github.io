@@ -10,7 +10,7 @@ header:
 ---
 
 ## 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA 2022)
-### ACL’22, Dublin, Ireland, 27 May 2022
+### ACL’22, Dublin, Ireland, 26 May 2022
 
 ## Background and Envisaged Scope
 

@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "WASSA at ACL 2022<br/> Dublin, Ireland, 27 May, 2022"
+excerpt: "WASSA at ACL 2022<br/> Dublin, Ireland, 26 May, 2022"
 layout: single
 classes: wide
 header:

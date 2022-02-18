@@ -24,6 +24,7 @@ Important dates:
 - March 21st: Deadline for system description (4 pgs)
 - April 3rd: Notification of acceptance
 - April 10th: Camera-ready due
+- May 26th: Workshop
 
 For further details on the shared task and how to participate, visit the codalab website:
 
