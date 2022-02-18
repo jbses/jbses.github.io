@@ -6,116 +6,77 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/banner.pdf
 ---
 
-## Workshop on Human Evaluation of NLP Systems (HumEval)
+## 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA 2022)
 ### ACL’22, Dublin, Ireland, 27 May 2022
-### Second Call for Papers
 
-Website: <https://humeval.github.io/>
+## Background and Envisaged Scope
 
-Previous edition (at EACL 2021): <https://humeval.github.io/2021/>
+Starting with reviews on products on e-commerce sites and ending with the emotional effect presentin or intended by media coverage, research in automatic Subjectivity and Sentiment Analysis as wellas explicit and implicit Emotion Detection and Classification has flourished in the past years.  Theimportance of the field has been proven by the high number of approaches proposed in research in thepast decade, as well as by the interest it generated in other disciplines, such as Economics, Sociology,Psychology, Marketing, Crisis Management  Digital Humanities. Building on previous editions, the aim of WASSA 2022 is to bring together researchers workingon Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications toother NLP or real-world tasks (e.g.  public health messaging, fake news, media impact analysis, socialmedia mining, computational literary studies) and researchers working on interdisciplinary aspectsof affect computation from text.  For this edition,  we encourage the submission of long and shortresearch and demo papers including, but not restricted to the following topics:
 
-### Workshop overview
-
-The Second Workshop on Human Evaluation of NLP Systems (HumEval'22) invites the submission of long and short papers on substantial, original, and unpublished research on all aspects of human evaluation of NLP systems with a focus on NLP systems which produce language as output. We welcome work on any quality criteria relevant to NLP, on both intrinsic evaluation (which assesses systems and outputs directly) and extrinsic evaluation (which assesses systems and outputs indirectly in terms of its impact on an external task or system), on quantitative as well as qualitative methods, score-based (discrete or continuous scores) as well as annotation-based (marking, highlighting).
-
-### Invited speakers
-
-Samira Shaikh, University of North Carolina at Charlotte / Ally \
-Markus Freitag, Google
+- Public sentiments and communication patterns of public health emergencies, e.g.  COVID-19
+- Resources for subjectivity, sentiment, emotion and social media analysis
+- Opinion retrieval, extraction, categorization, aggregation and summarization
+- Humor, Irony and Sarcasm detection
+- Mis and disinformation analysis and the role of affective attributes
+- Aspect and topic-based sentiment and emotion analysis
+- Analysis of stable traits of social media users, incl.  personality analysis and profiling
+- Transfer learning for domain, language and genre portability of sentiment analysis
+- Modelling commonsense knowledge for subjectivity, sentiment or emotion analysis
+- Improvement of NLP tasks using subjectivity and/or sentiment analysis
+- Intrinsic and extrinsic evaluation of subjectivity and/or sentiment analysis
+- The role of emotions in argument mining
+- Application of theories from related fields to subjectivity and sentiment analysis
+- Multimodal emotion detection and classification
+- Applications of sentiment and emotion mining
 
 ### Important dates
 
-15 February 2022: Submission deadline for [ARR](https://aclrollingreview.org/)* \
-28 February 2022: Submission deadline for standard submissions (via the [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/HumEval)) \
-22 March 2022: Commitment deadline for [ARR](https://aclrollingreview.org/) submissions with reviews\
-26 March 2022: Notification of acceptance\
-10 April 2022: Camera-ready papers due\
-27 May 2022: Workshop at ACL
+- Feb. 28, 2022-- Submission deadline.
+- March 15, 2022 -- Commitment deadline for submitting through ARR with reviews
+- March 26, 2022 -- Notification of acceptance.
+- April 10, 2022 -- Camera-ready papers due.
+- May 26, 2022 -- Workshop.
 
 All deadlines are 23:59 UTC-12.
 
-*We suppose that all papers submitted to ARR until 15 February 2022 will be reviewed by 22 March (see [ARR timeline](https://aclrollingreview.org/dates)), however we cannot guarantee it because it depends on ARR editors and not on us.
 
 ### Papers
 
-We invite papers on topics including, but not limited to, the following:
 
-* Experimental design and methods for human evaluations
-* Reproducibility of human evaluations
-* Work on inter-evaluator and intra-evaluator agreement
-* Ethical considerations in human evaluation of computational systems
-* Quality assurance for human evaluation
-* Crowdsourcing for human evaluation
-* Issues in meta-evaluation of automatic metrics by correlation with human evaluations
-* Alternative forms of meta-evaluation and validation of human evaluations
-* Comparability of different human evaluations
-* Methods for assessing the quality and the reliability of human evaluations
-* Role of human evaluation in the context of Responsible and Accountable AI
-
-We welcome work from any subfield of NLP (and ML/AI more generally), with a particular focus on evaluation of systems that produce language as output.
-
-### Submission
+At WASSA 2022, we will accept three types of submissions:
+For the regular research track we accept **long** & **short** papers:
 
 #### Long papers
-Long papers must describe substantial, original, completed and unpublished work. Wherever appropriate, concrete evaluation and analysis should be included. Long papers may consist of up to eight (8) pages of content, plus unlimited pages of references. Final versions of long papers will be given one additional page of content (up to 9 pages) so that reviewers’ comments can be taken into account. Long papers will be presented orally or as posters as determined by the programme committee. Decisions as to which papers will be presented orally and which as posters will be based on the nature rather than the quality of the work. There will be no distinction in the proceedings between long papers presented orally and as posters.
+**Long** papers may consist of up to eight (8) pages of content, with any number of additional pages of references, and will be presented orally.
+
 
 #### Short papers
-Short paper submissions must describe original and unpublished work. Short papers should have a point that can be made in a few pages. Examples of short papers are a focused contribution, a negative result, an opinion piece, an interesting application nugget, a small set of interesting results. Short papers may consist of up to four (4) pages of content, plus unlimited pages of references. Final versions of short papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account. Short papers will be presented orally or as posters as determined by the programme committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between short papers presented orally and as posters.
+**Short** papers may consist of up to four (4) pages of content, with two (2) additional pages of references, and will be presented either orally or as a poster.
 
-#### Multiple submission policy
-HumEval'22 allows multiple submissions. However, if a submission has already been, or is planned to be, submitted to another event, this must be clearly stated in the submission form.
+We accept that you commit your ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere.
 
-#### Submission procedure and templates
+#### Demo papers
+New this year is that we also introduce an industry track, for which we accept **demo papers**:
 
-Submission is electronic, through the [OpenReview portal for the workshop](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/HumEval)
-with the deadline on 28 February 2022.
+- **Demo papers** describe system demonstrations, ranging from early prototypes to mature production-ready systems. Please note that Please note: Commercial sales and marketing activities are not appropriate for this track. Demo papers may consist of up to six (6) pages of content, these will be presented as a poster and should include a live demonstration. For more information <a href="https://www.2022.aclweb.org/calldemos">click here</a>.
+
+Additionally, system description papers from the shared task will be presented either orally or as poster.
+
+
+### Submission procedure and templates
+
+Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA).
+
+Authors who received reviews already through the ACL Rolling Review process are invited to commit their reviewed paper to WASSA. To do so, please go to https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA on OpenReview and click on "ACL 2022 Workshop WASSA Commitment Submission". You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information. The commitment date for ARR papers with reviews is March 15.
 
 Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the ACL 2022 templates available on the [ACL Rolling Review website](https://aclrollingreview.org/cfp).
 The submitting author must have an OpenReview profile. Please ensure profiles are complete before submission. [This tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit#slide=id.gcfa2063058_0_0) from the ACL Rolling Review might be helpful. 
 
-In addition to standard submissions, submissions which were previously submitted to ARR and reviewed there can be committed to the workshop (together with the reviews) not later than 22 March 2022. We suppose that all papers submitted to ARR until 15 February 2022 will be reviewed by 22 March, however we cannot guarantee because it depends on ARR editors and not on us. Commitment link will be published soon.
 
 #### Optional Supplementary Materials: Appendices, Software and Data
 ARR encourages the submission of these supplementary materials to improve the reproducibility of results, and to enable authors to provide additional information that does not fit in the paper. Supplementary materials may include appendices, software or data. For example, pre processing decisions, model parameters, feature templates, lengthy proofs or derivations, pseudocode, sample system inputs/outputs, and other details that are necessary for the exact replication of the work described in the paper can be put into appendices. However, if the pseudo-code or derivations or model specifications are an important part of the contribution, or if they are important for the reviewers to assess the technical correctness of the work, they should be a part of the main paper, and not appear in appendices. Reviewers are not required to consider material in appendices.
 Appendices should come after the references in the submitted pdf, but do not count towards the page limit. Software should be submitted as a single .tgz or .zip archive, and data as a separate single .tgz or .zip archive. Supplementary materials must be fully anonymized to preserve the two-way anonymized reviewing policy.
 
-### Organisers
-
-Anya Belz, ADAPT Centre, Dublin City University, Ireland\
-Maja Popović, ADAPT Centre, Dublin City University, Ireland\
-Ehud Reiter, University of Aberdeen, UK\
-Anastasia Shimorina, Orange, Lannion, France
-
-For questions and comments regarding the workshop please contact the organisers at <humeval.ws@gmail.com>.
-
-### Programme committee
-Eleftherios Avramidis, DFKI, Germany\
-Sheila Castilho, ADAPT, Dublin City University, Ireland\
-Sandipan Dandapat, Microsoft, India\
-Ondrej Dušek, Charles University, Czechia\
-Markus Freitag, Google, USA\
-Albert Gatt, Malta University, Malta\
-Behnam Hedayatnia, Amazon, USA\
-David Howcroft, Heriot Watt University, UK\
-Tom Kocmi, Microsoft, Germany\
-Filip Klubička, ADAPT, Technological University of Dublin, Ireland\
-Samuel Läubli, University of Zurich, Switzerland\
-Chris van der Lee, Tilburg University, Netherlands\
-Saad Mahamood, Trivago, Germany\
-Nitika Mathur, University of Melbourne, Australia\
-Margot Mieskes, UAS Darmstadt, Germany\
-Emiel van Miltenburg, Tilburg University, Netherlands\
-Mathias Mueller, University of Zurich, Switzerland\
-Sergiu Nisioi, University of Bucharest, Romania\
-Juri Opitz, University of Heidelberg, Germany\
-Maike Paetzel-Prüsmann, University Potsdam, Germany\
-Maxime Peyrard, EPFL, Switzerland\
-Tim Polzehl, TU Berlin, Germany\
-Martin Popel, UFAL, Czechia\
-Verena Rieser, Heriot Watt University, UK\
-Samira Shaikh, UNC, USA\
-Joel Tetreault, Dataminr, USA\
-Wei Zhao, TU Darmstadt, Germany
