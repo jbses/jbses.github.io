@@ -22,4 +22,4 @@ function init(){
 }
 window.addEventListener("load", init, false);
 </script>
-For questions and comments regarding the workshop please contact [the organisers](/2022/committees) at <span class="contactaddr">humeval.ws<span class="athere"></span>gmail.com</span>. 
+For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa2022<span class="athere"></span>googlegroups.com</span>.
