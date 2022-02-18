@@ -1,6 +1,6 @@
 ---
-title: "Important Dates"
-permalink: /2022/dates/
+title: "Shared Task"
+permalink: /2022/shared_task/
 layout: single
 classes: wide
 header:
