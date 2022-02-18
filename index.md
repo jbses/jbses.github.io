@@ -10,7 +10,6 @@ header:
   overlay_image: /assets/images/banner.pdf
 ---
 
-## The 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 
 ## News
 
