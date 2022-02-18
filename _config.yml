@@ -270,3 +270,5 @@ defaults:
       comments: # true
       share: false
       related: false
+
+theme: jekyll-theme-minimal
