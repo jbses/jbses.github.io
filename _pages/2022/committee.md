@@ -1,12 +1,12 @@
 ---
 title: "Committees"
-permalink: /2022/committees/
+permalink: /2022/committee/
 layout: single
 classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/banner.pdf
 ---
 
 <style>.athere:before {content: '@'; }</style>
@@ -22,8 +22,6 @@ function init(){
 }
 window.addEventListener("load", init, false);
 </script>
-
-## Workshop on Human Evaluation of NLP Systems
 
 
 ### Organisers
