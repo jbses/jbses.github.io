@@ -7,14 +7,16 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/banner.pdf
+  overlay_image: /assets/images/banner.jpg
 ---
 
 ## 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 
 ## News
 
-Lots of news
+**February 10**: We have added the option to commit ARR submissions + reviews via the [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA).
+
+**December 22**: The [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA) is up.
 
 ### Invited Speakers
 
