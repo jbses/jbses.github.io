@@ -1,7 +1,7 @@
-# humeval.github.io
-Homepage for Workshop on Human Evaluation of NLP Systems
+# wassa-workshop.github.io
 
-Repository for website https://humeval.github.io
+
+Repository for website https://wassa-workshop.github.io
 
 ## Editing
 
@@ -9,11 +9,11 @@ You can modify the pages directly on GitHub, and your changes will be pushed to 
 
 - Modify the main page (`index.md`):
 
-https://github.com/humeval/humeval.github.io/blob/main/index.md
+https://github.com/wassa-workshop/wassa-workshop.github.io/blob/main/index.md
 
 - Modify the specific pages (`cd _pages`):
 
-https://github.com/humeval/humeval.github.io/tree/main/_pages
+https://github.com/wassa-workshop/wassa-workshop.github.io/tree/main/_pages
 
 - Modify the navigation:
 
@@ -25,7 +25,7 @@ The url (e.g., `/programme/`) in the navigation file should match the page perma
 ## Running locally
 
 1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
-2. Clone the repository: `git clone https://github.com/humeval/humeval.github.io.git`
+2. Clone the repository: `git clone https://github.com/wassa-workshop/wassa-workshop.github.io.git`
 2. Navigate to the repository directory 
 3. Run `bundle install`
 4. Run `bundle exec jekyll serve`
@@ -33,4 +33,4 @@ The url (e.g., `/programme/`) in the navigation file should match the page perma
 
 ## Credits
 
-Thanks Hendrik and Dimitra for providing the starter code.
+Template and much of code from https://humeval.github.io
